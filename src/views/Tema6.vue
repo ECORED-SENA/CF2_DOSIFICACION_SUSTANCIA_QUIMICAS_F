@@ -122,7 +122,7 @@
 
                 tr.table-bg1
                   td Mesófilos
-                  td < 100
+                  td ≤ 100
 
     .row.justify-content-center.align-items-center          
       .col-lg-10

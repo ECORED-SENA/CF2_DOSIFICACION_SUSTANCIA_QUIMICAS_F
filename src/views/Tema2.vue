@@ -43,7 +43,7 @@
             p.mb-0 Las características de los flóculos, su tamaño, si son uniformes, la velocidad con la que aparecen, el peso aparente que presentan. 
           li(data-aos="fade-down") 
             i.lista-ul__vineta
-            p.mb-0 La claridad y la transparencia de la muestra es el criterio con mayor relevancia, es por esto que en la mayoría de plantas de tratamiento de aguas encontramos turbidímetros para poder observar si la muestra es totalmente transparente o si presenta materiales suspendidos. 
+            p.mb-0 La claridad y la transparencia de la muestra son el criterio con mayor relevancia, es por esto por lo que en la mayoría de plantas de tratamiento de aguas encontramos turbidímetros para poder observar si la muestra es totalmente transparente o si presenta materiales suspendidos. 
           li(data-aos="fade-down") 
             i.lista-ul__vineta
             p.mb-0 Se debe tener en cuenta la velocidad con la que se sedimentan los flóculos en el momento que se detiene de agitar el equipo. Allí se podrán observar diferentes parámetros tales como lo son la sedimentación apresurada, lenta o casi nula. 
@@ -116,7 +116,7 @@
           .col-lg-8.p-4.ps-5.up
             p(data-aos="fade-down") Las normas son realizadas por comités técnicos, expertos en cada uno de los temas de normalización. En el caso del muestreo y análisis de agua, el comité técnico encargado es el ISO TC 146 y el subcomité 6 es el encargado de trabajar en guías y normas para el muestreo de aguas. El subcomité 4 es el encargado de trabajar específicamente en los aspectos relacionados con el análisis microbiológico de aguas.
 
-            p(data-aos="fade-down") La serie de normas 5667 proporcionan directrices para la toma de muestras para el análisis de la calidad del agua. En el caso de muestreo para análisis microbiológico se recomienda consultar la ISO 19458.       
+            p(data-aos="fade-down") La serie de normas 5667 proporciona directrices para la toma de muestras para el análisis de la calidad del agua. En el caso de muestreo para análisis microbiológico se recomienda consultar la ISO 19458.       
           .col-lg-4.up
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/img17.png', alt='') 
 

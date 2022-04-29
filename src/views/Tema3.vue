@@ -31,7 +31,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-12
                 img.img-t.img-a(src='@/assets/curso/temas/img22.png', alt='') 
-                p.p-color-slyder.pt-5.p-5.t-up1.mb-0 Asu vez están disponibles 8 guías para que las personas involucradas en desarrollo de proyectos en agua y saneamiento básico podamos desenvolverse correctamente.
+                p.p-color-slyder.pt-5.p-5.t-up1.mb-0 A su vez están disponibles 8 guías para que las personas involucradas en desarrollo de proyectos en agua y saneamiento básico podamos desenvolverse correctamente.
        
       p(data-aos="fade-down").mt-5 La Resolución 0330 de 2017 reglamenta cuales son los requisitos técnicos que se deben cumplir en cada una de las etapas, de diseño, construcción, puesta en marcha, operación, mantenimiento y rehabilitación de aquella infraestructura que esté relacionada con los servicios de alcantarillado, acueducto y aseo. 
       .row.justify-content-center.align-items-center.mt-5       
@@ -78,7 +78,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/img24.jpg')})`}"
           )
           .bloque-texto-g1__texto.p-4
-            p.mb-0 El color y la turbiedad son algunas de las características del agua las cuales representan una mayor calificación dentro del Índice de Riesgo de la Calidad del Agua (IRCA), es por esto que los objetivos de una planta de tratamiento deben estar enfocados a obtener unas condiciones óptimas de tratabilidad del agua. 
+            p.mb-0 El color y la turbiedad son algunas de las características del agua las cuales representan una mayor calificación dentro del Índice de Riesgo de la Calidad del Agua (IRCA), es por esto por lo que los objetivos de una planta de tratamiento deben estar enfocados a obtener unas condiciones óptimas de tratabilidad del agua. 
 
     .row.justify-content-start.align-items-center.mt-5           
       .col-lg-6

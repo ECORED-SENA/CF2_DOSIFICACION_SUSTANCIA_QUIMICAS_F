@@ -9,45 +9,42 @@
 
     p(data-aos="fade-down") La cloración es un método muy sencillo y eficaz para la desinfección de aguas y hacerla potable. 
 
-    .row.justify-content-center(data-aos="fade-down")
-      .col-lg-3.col-md-9.mb-3.mb-md-0
-        .row.px-2.pt-2.h-100
-          .col-12.m-0.holder.align-items-center.px-0
-            figure
-              img(src="@/assets/curso/temas/img38.jpg", alt="")
+    .row.mt-5
+      .col-sm-6.col-xl-3.mb-4.mb-xl-0(data-aos="fade-right")
+        .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
+          .indicador--hover(v-if="indicadorTarjetaSlide")
+          .tarjeta-slide__contenedor
+            .tarjeta-slide__contenido.p-4.p-xl-5
+              p.mb-5.mb-5 Consiste básicamente introducir productos clorados que en su mayoría son pastillas, en el agua para matar todos aquellos microorganismos que se encuentren presentes.  
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/img38.jpg')})`}")
+              h3.text-center.p-flip_img.p-color.py-1.py-xl-3 Consiste básicamente
 
-            .text.p-lg-2.p-3
-              .row.text-center.pt-2
-                .p.mt-0 Consiste básicamente en  
-                p.mb-5 introducir productos clorados que en su mayoría son pastillas, en el agua para matar todos aquellos microorganismos que se encuentren presentes. 
-      .col-lg-3.col-md-9.mb-3.mb-md-0
-        .row.px-2.pt-2.h-100
-          .col-12.m-0.holder.align-items-center.px-0(@mouseover="mostrarIndicador = false")
-            .indicador--hover(v-if="mostrarIndicador")
-            figure
-              img(src="@/assets/curso/temas/img39.jpg", alt="")
-            .text.p-lg-2.p-3
-              .row.text-center.pt-2
-                .p.mt-0 Usualmente el proceso tarda 
-                p.mb-5 alrededor de unos 30 minutos y gracias al efecto remanente que tiene el cloro, el efecto continuo durante horas o incluso días.
-      .col-lg-3.col-md-9.mb-3.mb-md-0
-        .row.px-2.pt-2.h-100
-          .col-12.m-0.holder.align-items-center.px-0
-            figure
-              img(src="@/assets/curso/temas/img40.jpg", alt="a")
-            .text.p-lg-2.p-3
-              .row.text-center.pt-2
-                .p.mt-0 Este procedimiento se utiliza en 
-                p.mb-5 las grandes redes de distribución de agua potable desde hace ya varias décadas atrás añadiendo cloro al agua para que durante su transporte no se contamine con microorganismos presentes en los sistemas de alcantarillado.   
-      .col-lg-3.col-md-9.mb-3.mb-md-0
-        .row.px-2.pt-2.h-100
-          .col-12.m-0.holder.align-items-center.px-0
-            figure
-              img(src="@/assets/curso/temas/img41.jpg", alt="a")
-            .text.p-lg-2.p-3
-              .row.text-center.pt-2
-                .p.mt-0 Este tratamiento permite evitar
-                p.mb-5 enfermedades como lo son fiebres tifoideas, disentería y la cólera, aunque es incapaz de eliminar algunos parásitos patógenos, ya que este proceso desinfecta el agua, pero no la purifica por completo. 
+      .col-sm-6.col-xl-3.mb-4.mb-xl-0(data-aos="fade-down")
+        .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
+          .indicador--hover(v-if="indicadorTarjetaSlide")
+          .tarjeta-slide__contenedor
+            .tarjeta-slide__contenido.p-4.p-xl-5
+              p.mb-5.mb-5 Usualmente el proceso alrededor de unos 30 minutos y gracias al efecto remanente que tiene el cloro, el efecto continuo durante horas o incluso días. 
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/img39.jpg')})`}")
+              h3.text-center.p-flip_img.p-color.py-1.py-xl-3 Usualmente el proceso         
+
+      .col-sm-6.col-xl-3.mb-4.mb-xl-0(data-aos="fade-left")
+        .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
+          .indicador--hover(v-if="indicadorTarjetaSlide")
+          .tarjeta-slide__contenedor
+            .tarjeta-slide__contenido.p-4.p-xl-5
+              p.mb-5.mb-5 Este procedimiento se utiliza en las grandes redes de distribución de agua potable desde hace ya varias décadas atrás añadiendo cloro al agua para que durante su transporte no se contamine con microorganismos presentes en los sistemas de alcantarillado.   
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/img40.jpg')})`}")
+              h3.text-center.p-flip_img.p-color.py-1.py-xl-3 Este procedimiento 
+
+      .col-sm-6.col-xl-3.mb-4.mb-xl-0(data-aos="fade-left")
+        .tarjeta.tarjeta-slide.arriba.color-primario(@mouseover="indicadorTarjetaSlide = false")
+          .indicador--hover(v-if="indicadorTarjetaSlide")
+          .tarjeta-slide__contenedor
+            .tarjeta-slide__contenido.p-4.p-xl-5  
+              p.mb-5.mb-5 Este tratamiento permite evitar enfermedades como lo son fiebres tifoideas, disentería y la cólera, aunque es incapaz de eliminar algunos parásitos patógenos, ya que este proceso desinfecta el agua, pero no la purifica por completo.
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/img41.jpg')})`}")
+              h3.text-center.p-flip_img.p-color.py-1.py-xl-3 Este tratamiento
 
     .row.justify-content-center.align-items-center.mt-5           
       .col-lg-10
@@ -68,7 +65,7 @@
             tbody
               tr
                 td.table-t #[b Precloración ]
-                td.px-4 En la etapa de precloración es donde se agrega la cantidad de cloro necesaria en el punto de interrupción para garantizar que el nivel de cloro residual pueda alcanzar niveles de desinfección mas lejanos.
+                td.px-4 En la etapa de precloración es donde se agrega la cantidad de cloro necesaria en el punto de interrupción para garantizar que el nivel de cloro residual pueda alcanzar niveles de desinfección más lejanos.
 
               tr.table-bg
                 td.table-t #[b Desinfección en plantas]
