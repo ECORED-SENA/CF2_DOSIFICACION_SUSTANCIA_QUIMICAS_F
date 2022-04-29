@@ -23,7 +23,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Pruebas de jarras',
+        titulo: 'Prueba de jarras',
         desarrolloContenidos: true,
       },
 
