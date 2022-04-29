@@ -10,7 +10,7 @@
     img.img-t.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/img19.jpg', alt='') 
 
     .bg_img3.px-5
-      p(data-aos="fade-down").mt-5 Para le regulación del sector de potabilización del agua contamos con el reglamento técnico del sector de agua potable y saneamiento básico RAS, el cual es una herramienta creada por el ministerio de vivienda en Colombia para mejorar la calidad de la prestación de servicios en agua potable y saneamiento básico, estas guías tienen mucha información de diseño.
+      p(data-aos="fade-down").mt-5 Para la regulación del sector de potabilización del agua contamos con el reglamento técnico del sector de agua potable y saneamiento básico RAS, el cual es una herramienta creada por el Ministerio de Vivienda en Colombia para mejorar la calidad de la prestación de servicios en agua potable y saneamiento básico, estas guías tienen mucha información de diseño.
 
       p(data-aos="fade-down") En Colombia el uso de las guías y manuales del RAS es obligatorio para los sistemas de captación, conducción, almacenamiento y tratamiento de agua residual y potable según la Resolución 0330 de 2017. Hasta el momento hay 14 manuales definidos por el gobierno sobre las buenas prácticas en el sector de saneamiento y agua en Colombia y a su vez están disponibles 8 guías para que las personas involucradas en desarrollo de proyectos en agua y saneamiento básico puedan desenvolverse correctamente. 
 
@@ -36,7 +36,7 @@
       p(data-aos="fade-down").mt-5 La Resolución 0330 de 2017 reglamenta cuales son los requisitos técnicos que se deben cumplir en cada una de las etapas, de diseño, construcción, puesta en marcha, operación, mantenimiento y rehabilitación de aquella infraestructura que esté relacionada con los servicios de alcantarillado, acueducto y aseo. 
       .row.justify-content-center.align-items-center.mt-5       
         .col-lg-6
-          p(data-aos="fade-down").text-center.mb-0.p-color7.p-4  El contenido que maneja esta Resolución 0330 de 2012 es el siguiente: 
+          p(data-aos="fade-down").text-center.mb-0.p-color7.p-4  El contenido que maneja esta Resolución 0330 de 2017 es el siguiente: 
           
       .row.justify-content-center.align-items-center.mt-5
         .col-lg-4.p-0.my-1

@@ -182,7 +182,7 @@
                   p.text-white Enlace <i>web</i>
 
           tr.table-bg1
-            td #[b Resolución 082 de 2009]
+            td #[b Resolución 0082 de 2009]
             td Formularios para la práctica de visitas de inspección sanitaria a los sistemas de suministro de agua para consumo humano. 
             td 
               a.anexo.mb-4.mb-lg-0.bg-a(href="https://www.ins.gov.co/sivicap/Documentacin%20SIVICAP/2009%20Resoluci%C3%B3n%20082%20Buenas%20pr%C3%A1cticas%20sanitarias.pdf" target="_blank")
@@ -192,10 +192,10 @@
                   p.text-white Enlace <i>web</i>            
 
           tr.table-bg2
-            td #[b Resolución 0082 de 2009]
+            td #[b Resolución 0549 de 2017]
             td Lineamientos para la formulación de mapas de riesgos de cuencas.
             td 
-              a.anexo.mb-4.mb-lg-0.bg-a(href="https://www.ins.gov.co/sivicap/Documentacin%20SIVICAP/2009%20Resoluci%C3%B3n%20082%20Buenas%20pr%C3%A1cticas%20sanitarias.pdf" target="_blank")
+              a.anexo.mb-4.mb-lg-0.bg-a(href="https://www.minsalud.gov.co/Normatividad_Nuevo/Resolucion%20No.0549%20de%202017.pdf" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto

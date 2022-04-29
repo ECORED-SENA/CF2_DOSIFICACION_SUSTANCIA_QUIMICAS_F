@@ -82,7 +82,7 @@
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/img14.svg', alt='') 
         p(data-aos="fade-down").mt-5 El <i>Standard Methods</i> es un referente que, de manera integral, compila todos los aspectos relacionados con las técnicas de análisis de agua incluyendo las aguas residuales.
 
-        p(data-aos="fade-down").p-yellow.p-4.mb-0 Este referente ha sido publicado desde 1905 y desde entonces se actualiza constantemente, hoy en día va en su edición número 23. Esta es una publicación producida con recursos y conocimiento conjunto de las 3 asociaciones de salud pública y agua, reconocidas a nivel mundial: la Asociación Americana de la Salud Pública (APHA), Asociación Americana de trabajos del Agua (AWWA) y La Federación del ambiente agua (WEF).
+        p(data-aos="fade-down").p-yellow.p-4.mb-0 Este referente ha sido publicado desde 1905 y desde entonces se actualiza constantemente, hoy en día va en su edición número 23. Esta es una publicación producida con recursos y conocimiento conjunto de las 3 asociaciones de salud pública y agua, reconocidas a nivel mundial: la Asociación Americana de la Salud Pública (APHA), Asociación Americana de trabajos del Agua (AWWA) y la Federación Ambiental del Agua (WEF).
 
         p(data-aos="fade-down").mt-5 El <i>Standard Methods</i> contiene más de 400 métodos para el análisis de agua, debidamente revisados y aprobados por expertos. Estos métodos están divididos en 10 apartados que van desde el apartado 1000 al 10000.
       .bg_img2
@@ -108,7 +108,7 @@
             img.img-t.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/img14.svg', alt='') 
         .row.justify-content-center.align-items-center        
           .col-lg-10                    
-            p(data-aos="fade-down").mt-5 Las normas ISO son otro referente importante para el muestreo y análisis microbiológico y fisicoquímico del agua, elaborados por la organización internacional de normalización ISO con sede en Ginebra suiza y conformada por más de 160 países miembros.
+            p(data-aos="fade-down").mt-5 Las normas ISO son otro referente importante para el muestreo y análisis microbiológico y fisicoquímico del agua, elaborados por la organización internacional de normalización ISO con sede en Ginebra Suiza y conformada por más de 160 países miembros.
 
     .row.justify-content-center.align-items-end.mt-5           
       .col-lg-10.bg-color6.pt-4               

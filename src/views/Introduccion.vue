@@ -8,7 +8,7 @@
           i.fas.fa-info
       h1 Introducción
       
-    p(data-aos="fade-down").mt-5.text-center Aprendiz, cordial bienvenida al componente de formación dos, da clic sobre el video para que tenga un panorama general del recorrido del mismo. 
+    p(data-aos="fade-down").mt-5.text-center Aprendiz, cordial bienvenida al componente de formación dos, de clic sobre el video para que tenga un panorama general del recorrido del mismo. 
 
     .row.justify-content-center.align-items-center.mt-5           
       .col-lg-12(data-aos="fade-left")     
